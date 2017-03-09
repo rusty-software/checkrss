@@ -1,0 +1,7 @@
+http://feeds.reuters.com/reuters/topNews
+http://feeds.feedburner.com/TechCrunch/
+https://www.wired.com/feed/
+https://rss.sciencedaily.com/top.xml
+https://service.datamonitorhealthcare.com/hkc/rss/rss-feed/?section=centralnervoussystem&service=rss&cmpid=rss
+https://service.datamonitorhealthcare.com/hkc/rss/rss-feed/?section=cardiovascular&service=rss&cmpid=rss
+https://service.datamonitorhealthcare.com/hkc/rss/rss-feed/?section=china&service=rss&icid=rss
