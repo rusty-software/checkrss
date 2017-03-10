@@ -1,7 +1,7 @@
 #!/bin/bash
 
 > empty_feeds.txt
-headarg="-1"
+
 while read url
 do
   content="$(curl --silent ${url})"
